@@ -1,6 +1,6 @@
-{
-  "version": "0.1.3",
-  "url": "https://github.com/RozcoTaco/kappa-tracker-feed/releases/latest/download/TarkovKappaTracker_Setup.exe",
-  "notes": "Fix app icon not displaying in taskbar",
-  "sha256": "9ddbd515fc1148a508f0cf6f84f53cfcfc91d97ab25ace5c5b9cfbffdd8c8b6f"
+﻿{
+    "sha256":  "2C5B023024FB2C1722B8D8872F85C6A354972942078A00A1AF82ED6710E6D18B",
+    "url":  "https://github.com/RozcoTaco/kappa-tracker-feed/releases/latest/download/TarkovKappaTracker_Setup.exe",
+    "version":  "0.1.5",
+    "notes":  "Release 0.1.5:\nAdded a feedback / bug report email under help\nRemoved shortcut section under Help"
 }
