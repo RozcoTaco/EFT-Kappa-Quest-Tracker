@@ -1,6 +1,6 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "url": "https://github.com/RozcoTaco/Tarkov-Kappa-Tracker/releases/latest/download/TarkovKappaTracker_Setup.exe",
-  "notes": "Initial update feed.",
-  "sha256": ""
+  "notes": "Test update: ensuring updates work correctly and app installs it upon open.",
+  "sha256": "ca8710424514a27a400ad1aaebc30dada5ff1dbfadfcaa5da5b41c8b5ffbc512"
 }
