@@ -1,6 +1,6 @@
-﻿{
-    "sha256":  "2C5B023024FB2C1722B8D8872F85C6A354972942078A00A1AF82ED6710E6D18B",
+{
+    "sha256":  "67008C0B93E35BB569F9BE9494CC6AE875EE08CD16BA6EA6257141A623A8FDC8",
     "url":  "https://github.com/RozcoTaco/kappa-tracker-feed/releases/latest/download/TarkovKappaTracker_Setup.exe",
     "version":  "0.1.5",
-    "notes":  "Release 0.1.5:\nAdded a feedback / bug report email under help\nRemoved shortcut section under Help"
+    "notes":  "Release 0.1.5\nAdded a feedback / bug report email under help\nRemoved shortcut section under Help"
 }
