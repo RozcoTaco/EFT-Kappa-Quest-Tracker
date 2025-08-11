@@ -1,6 +1,6 @@
 {
-    "sha256":  "6A3000A2A033FDC20934A9BB4DE48428884682ABD8964A2A7E27B0B69C0242C7",
-    "url":  "https://github.com/RozcoTaco/kappa-tracker-feed/releases/latest/download/TarkovKappaTracker_Setup.exe",
-    "version":  "0.1.7.1",
-    "notes":  "Release 0.1.7.1\n Testing previous patch on updater name."
+    "sha256":  "9DA35B1544D2629A24C9B2CABEB78CE650351ED72852B1C8173FFE9DAD3CDAE1",
+    "url":  "https://github.com/RozcoTaco/EFT-Kappa-Quest-Tracker/releases/latest/download/TarkovKappaTracker_Setup.exe",
+    "version":  "0.1.7.2",
+    "notes":  "Release 0.1.7.2\nChange install to Per-User to only install the app on the specified users local files to minimize footprint on users computer\nUpdate repo name and corresponding files that use it"
 }
