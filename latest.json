@@ -1,6 +1,6 @@
 {
-    "sha256":  "75CC761C251F1845C10C2B421A8304104B0DDF53F7CED3500E33B70F18944F33",
+    "sha256":  "0189C6A90DD8CCC9D1BCDD008BCFCA9EDEC8CC198B1D15FB2A5C8B73D53EF8AE",
     "url":  "https://github.com/RozcoTaco/EFT-Kappa-Quest-Tracker/releases/latest/download/TarkovKappaTracker_Setup.exe",
-    "version":  "0.1.7.5",
-    "notes":  "Release 0.1.7.5\nFixed app Icon in installer/uninstaller/task bar"
+    "version":  "0.1.7.6",
+    "notes":  "Release 0.1.7.6"
 }
