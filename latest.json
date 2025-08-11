@@ -1,6 +1,6 @@
 {
-    "sha256":  "67008C0B93E35BB569F9BE9494CC6AE875EE08CD16BA6EA6257141A623A8FDC8",
+    "sha256":  "4A019EE637D8635B523CCE4B052FC66DDD5253EF4318FFCFAD3AFE009379FC19",
     "url":  "https://github.com/RozcoTaco/kappa-tracker-feed/releases/latest/download/TarkovKappaTracker_Setup.exe",
-    "version":  "0.1.5",
-    "notes":  "Release 0.1.5\nAdded a feedback / bug report email under help\nRemoved shortcut section under Help"
+    "version":  "0.1.6",
+    "notes":  "Release 0.1.6\nFix errors in formatting that caused random symbols to appear in the menu"
 }
