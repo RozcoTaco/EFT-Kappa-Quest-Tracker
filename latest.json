@@ -1,6 +1,6 @@
 {
-    "sha256":  "2E3D385AE1F410814B39231AD66CB9DD1B63F74646BC73E59EC0A1AF9E88E1E1",
+    "sha256":  "7358A6CBA43B88DF333B0E15A310B4D19B45681C235BE148C728EE54A1B2A32C",
     "url":  "https://github.com/RozcoTaco/EFT-Kappa-Quest-Tracker/releases/latest/download/TarkovKappaTracker_Setup.exe",
-    "version":  "0.1.7.3",
-    "notes":  "Release 0.1.7.3"
+    "version":  "0.1.7.4",
+    "notes":  "Release 0.1.7.4\nFixed a variety of bugs that appeared with the per-user instal transition."
 }
