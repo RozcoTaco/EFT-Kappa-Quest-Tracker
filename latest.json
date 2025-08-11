@@ -1,6 +1,6 @@
 {
-    "sha256":  "4A019EE637D8635B523CCE4B052FC66DDD5253EF4318FFCFAD3AFE009379FC19",
+    "sha256":  "8D9DDADC1675B9FE3E072BA04B8584856BE197F3FDE1B9D50D8CD3953E981CE4",
     "url":  "https://github.com/RozcoTaco/kappa-tracker-feed/releases/latest/download/TarkovKappaTracker_Setup.exe",
-    "version":  "0.1.6",
-    "notes":  "Release 0.1.6\nFix errors in formatting that caused random symbols to appear in the menu"
+    "version":  "0.1.7",
+    "notes":  "Release 0.1.7/nUpdate installer name to accurately reflect application name."
 }
