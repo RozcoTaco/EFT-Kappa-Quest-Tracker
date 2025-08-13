@@ -4,7 +4,8 @@ A Windows desktop app to track every quest and item needed for Kappa in Escape f
 
 ## ⬇️ Download
 
-**Latest installer (Windows 10/11, x64):**  
+**Latest installer (Windows 10/11, x64):** 
+
 [Download TarkovKappaTracker_Setup.exe](https://github.com/RozcoTaco/EFT-Kappa-Quest-Tracker/releases/latest/download/TarkovKappaTracker_Setup.exe)
 
 > First run might show a SmartScreen warning because the app is unsigned. Click **More info** → **Run anyway**.
