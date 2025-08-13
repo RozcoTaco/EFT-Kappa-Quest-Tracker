@@ -1,6 +1,6 @@
 {
-    "sha256":  "0189C6A90DD8CCC9D1BCDD008BCFCA9EDEC8CC198B1D15FB2A5C8B73D53EF8AE",
+    "sha256":  "A5A16827B0043C951D8CFB2628E02F1CB095F10349666BE606EFB2C8A9C574CF",
     "url":  "https://github.com/RozcoTaco/EFT-Kappa-Quest-Tracker/releases/latest/download/TarkovKappaTracker_Setup.exe",
-    "version":  "0.1.7.6",
-    "notes":  "Release 0.1.7.6"
+    "version":  "1.0.0",
+    "notes":  "Release 1.0.0\nAdded Features:\n   Overview\n   Items to Keep\n   Raid Planner\n\nGo to Help -> Change Log to see the changes in detail!"
 }
